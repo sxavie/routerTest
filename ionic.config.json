@@ -1,6 +1,8 @@
 {
   "name": "routerApp",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular",
   "id": "bd5c38df"
 }
